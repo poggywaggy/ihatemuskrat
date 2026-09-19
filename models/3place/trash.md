@@ -1,9 +1,11 @@
 # 3d models for 3place
 yep
 
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
 ## One notte
 <model-viewer 
-  src="https://github.com/poggywaggy/ihatemuskrat/raw/refs/heads/main/models/3place/nottePose2_3place_v1.glb" 
+  src="[https://jsdelivr.net](https://github.com/poggywaggy/ihatemuskrat/raw/refs/heads/main/models/3place/nottePose2_3place_v1.glb)" 
   ar 
   camera-controls 
   touch-action="pan-y" 
