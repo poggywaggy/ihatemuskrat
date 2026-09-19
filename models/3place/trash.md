@@ -3,7 +3,7 @@ yep
 
 ## One notte
 <model-viewer 
-  src="[main/models/3place/nottePose2_3place_v1.glb](https://github.com/poggywaggy/ihatemuskrat/raw/refs/heads/main/models/3place/nottePose2_3place_v1.glb)" 
+  src="https://github.com/poggywaggy/ihatemuskrat/raw/refs/heads/main/models/3place/nottePose2_3place_v1.glb" 
   ar 
   camera-controls 
   touch-action="pan-y" 
